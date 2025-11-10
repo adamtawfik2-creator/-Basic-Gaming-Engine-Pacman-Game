@@ -1,9 +1,9 @@
 
 # G2:   PAC-MAN — README
 
-###### ABDELSADEK Abdallah - BELAL Anais 
+###### TAWFIK Adam  - BELAL Anais 
 ###### DIRANI SAFAWI Hani - HEDIDAR Rayan 
-###### KIRLOS Youssef - TAWFIK Adam 
+###### KIRLOS Youssef - TABDELSADEK Abdallah
 
 ***
 
